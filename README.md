@@ -1,2 +1,10 @@
 # Tugas-3-PAM
- [RA-Rayhan Athalla Ghifary-119140225-Tugas 3].
+[RA-Rayhan Athalla Ghifary-119140225-Tugas 3].
+Identitas Diri :
+Rayhan Athalla Ghifary NIM 119140225
+Kelas Pengembangan Aplikasi Mobile 
+
+Deskripsi Tugas :
+Membuat aplikasi Hiling.id yang terdiri dari 2 halaman dimana halamana utama atau halaman awal dapat melakukan pencarian dengan pengisian data berupa Lokasi Keberangkatan, Tujuan Keberangaktan dan Tanggal Keberangkatan.
+Tampilan Awal
+![](Hiling.id/image/Tampilan Awal.JPG)
