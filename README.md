@@ -14,7 +14,7 @@ Membuat aplikasi Hiling.id yang terdiri dari 2 halaman dimana halamana utama ata
 <p align="center"><img src="Hiling.id/image/Tampilan Pencarian.png"></p>
 
 - Tampilan Hasil Pencarian.
-<p align="center"><img src="Tampilan Hasil Pencarian.png"></p>
+<p align="center"><img src="Hiling.id/image/Tampilan Hasil Pencarian.png"></p>
 
 - Tampilan Pencarian Tidak Ditemukan
-<p align="center"><img src="Tampilan Pencarian Tidak Ditemukan.png"></p> 
+<p align="center"><img src="Hiling.id/image/Tampilan Pencarian Tidak Ditemukan.png"></p> 
