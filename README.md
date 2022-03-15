@@ -8,5 +8,4 @@
 2. Deskripsi Tugas :
 Membuat aplikasi Hiling.id yang terdiri dari 2 halaman dimana halamana utama atau halaman awal dapat melakukan pencarian dengan pengisian data berupa Lokasi Keberangkatan, Tujuan Keberangaktan dan Tanggal Keberangkatan.
 Tampilan Awal.
-
-(Hiling.id/image/Tampilan Awal.png)
+<p align="center"><img src="Hiling.id/image/Tampilan Awal.png"></p>
